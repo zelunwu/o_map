@@ -40,7 +40,7 @@ shading interp;
 % m_coast('patch',[1 1 1]);
 % m_coast;
 m_gshhs_i('color','k');  
-m_grid('fontsize',15); 
+m_grid('fontsize',12); 
 % colorbar;
 % xlabel('Longitude','fontweight','bold','fontsize',13);
 % ylabel('Latitude','fontweight','bold','fontsize',13);
